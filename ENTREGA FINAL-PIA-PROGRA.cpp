@@ -197,7 +197,7 @@ void Eliminar()
 void Modificar()
 {
     int j, opcion;
-    cout << "Ingrese el juego a modificar";
+    cout << "Ingrese el ID del juego a modificar";
     cin >> j;
     j = j - 1;
     cout << "ingrese que desea modificar " << endl;
