@@ -73,7 +73,7 @@ void Agregar()
     cara = new string[jgo];
     nombre = new string[jgo];
 
-    for (int i = 0; i < jgo; i++)
+    for (int i = 1; i < jgo; i++)
     {
         cout << "ID del juego : " << i << endl;
         while (getchar() != '\n');
