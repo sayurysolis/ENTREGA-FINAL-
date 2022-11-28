@@ -245,7 +245,7 @@ void Modificar()
     case 5:
         for (int i = j; i == j; i++)
         {
-            for (int hora = 0; hora < 24; hora++)
+            for (int anio = 1000; anio < 2023; anio++)
                 cout << "anio de lanzamiento: " << endl;
             cin >> anio[i];
         }
